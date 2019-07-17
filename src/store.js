@@ -3,7 +3,7 @@ import Vuex from 'vuex'
 import {defaultTasks, uuid} from '@/utils'
 
 
-Vue.use(Vuex)
+Vue.use(Vuex) 
 
 const savePlugin = store => {
   // вызывается после инициализации хранилища
