@@ -3,6 +3,7 @@ import Vuex from 'vuex'
 import {defaultTasks, uuid} from '@/utils'
 
 // master branch
+// cooment 1
 
 Vue.use(Vuex) 
 
