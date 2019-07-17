@@ -2,6 +2,7 @@ import Vue from 'vue'
 import Vuex from 'vuex'
 import {defaultTasks, uuid} from '@/utils'
 
+// branch test
 
 Vue.use(Vuex)
 
