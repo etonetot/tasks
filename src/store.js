@@ -2,10 +2,7 @@ import Vue from 'vue'
 import Vuex from 'vuex'
 import {defaultTasks, uuid} from '@/utils'
 
-<<<<<<< HEAD
-// master
-=======
-// branch test
+// master branch
 
 Vue.use(Vuex) 
 
